@@ -1,8 +1,10 @@
 
+
+<p align="center">
  <a href="https://www.facebook.com/brunohbrito">
     <img src="https://github.com/brunohbrito/brunohbrito/blob/master/foote.png?raw=true" alt="Blog" />
   </a>
-
+</p>
 <p align="center">
   <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003728">
     <img src="https://img.shields.io/badge/-MVP%20Profile-blue?style=for-the-badge&logo=Microsoft&logoColor=white&link=https://mvp.microsoft.com/en-us/PublicProfile/5003728" alt="MVP Profile" />
