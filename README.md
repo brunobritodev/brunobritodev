@@ -1,4 +1,7 @@
-![Bruno Brito](https://github.com/brunohbrito/brunohbrito/blob/master/header.jpg?raw=true)
+
+ <a href="https://www.facebook.com/brunohbrito">
+    <img src="https://github.com/brunohbrito/brunohbrito/blob/master/foote.png?raw=true" alt="Blog" />
+  </a>
 
 <p align="center">
   <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003728">
@@ -24,6 +27,3 @@
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=brunohbrito&show_icons=true&theme=tokyonight" /></p>
 
- <a href="https://www.facebook.com/brunohbrito">
-    <img src="https://github.com/brunohbrito/brunohbrito/blob/master/foote.png?raw=true" alt="Blog" />
-  </a>
