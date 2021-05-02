@@ -32,17 +32,17 @@ I'm a software developer passionate for <b>#opensource</b>, <b>#code</b> & <b>#s
 
 <p align="center">
   <a href="#">
-    <img  alt="Bruno Brito's GitHub Stats" width="450px" src="https://github-readme-stats.vercel.app/api/?username=brunohbrito&show_icons=true&theme=buefy&count_private=true" />
+    <img  alt="Bruno Brito's GitHub Stats" width="400px" src="https://github-readme-stats.vercel.app/api/?username=brunohbrito&show_icons=true&theme=buefy&count_private=true" />
   </a>
   <a href="#">
-    <img  alt="Bruno Brito's GitHub Contributions Stats" width="450px" src="https://github-readme-streak-stats.herokuapp.com?user=brunohbrito&theme=tokyonight&background=FFFFFF" />
+    <img  alt="Bruno Brito's GitHub Contributions Stats" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=brunohbrito&theme=tokyonight&background=FFFFFF" />
   </a>
   
   <a href="#">
-    <img  alt="Bruno Brito's GitHub Detailed Stats" width="450px" src="https://github.com/brunohbrito/github-stats/blob/master/generated/overview.svg" />
+    <img  alt="Bruno Brito's GitHub Detailed Stats" src="https://github.com/brunohbrito/github-stats/blob/master/generated/overview.svg" />
   </a>
   <a href="#">
-    <img  alt="Bruno Brito's GitHub Language by File Size" width="450px" src="https://github.com/brunohbrito/github-stats/blob/master/generated/languages.svg" />
+    <img  alt="Bruno Brito's GitHub Language by File Size"  src="https://github.com/brunohbrito/github-stats/blob/master/generated/languages.svg" />
   </a>
   <br>
   <a href="#">
