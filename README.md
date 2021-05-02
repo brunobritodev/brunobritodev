@@ -31,10 +31,12 @@ I'm a software developer passionate for <b>#opensource</b>, <b>#code</b> & <b>#s
 ## Analytics ⚙️
 
 ![Bruno Brito's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brunohbrito&show_icons=true&theme=buefy&count_private=true)
-![Bruno Brito's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunohbrito&theme=buefy&layout=compact&count_private=true)
 ![Bruno Brito's GitHub Contributions Stats](https://github-readme-streak-stats.herokuapp.com?user=brunohbrito&theme=tokyonight&background=FFFFFF)
 ![Bruno Brito's GitHub Detailed Stats](https://github.com/brunohbrito/github-stats/blob/master/generated/overview.svg)
 ![Bruno Brito's GitHub Language by File Size](https://github.com/brunohbrito/github-stats/blob/master/generated/languages.svg)
+
+
+![Bruno Brito's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunohbrito&theme=buefy&&count_private=true)
 
 ## Languages & Tools 🛠
 
