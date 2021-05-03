@@ -39,9 +39,6 @@ I'm a software developer passionate for <b>#opensource</b>, <b>#code</b> & <b>#s
   </a>
   
   <a href="#">
-    <img  alt="Bruno Brito's GitHub Detailed Stats" src="https://github.com/brunohbrito/github-stats/blob/master/generated/overview.svg" />
-  </a>
-  <a href="#">
     <img  alt="Bruno Brito's GitHub Language by File Size"  src="https://github.com/brunohbrito/github-stats/blob/master/generated/languages.svg" />
   </a>
   <br>
