@@ -46,7 +46,7 @@ I'm a software developer passionate for <b>#opensource</b>, <b>#code</b> & <b>#s
   </a>
   <br>
   <a href="#">
-    <img  alt="Bruno Brito's GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohbrito&theme=buefy&&count_private=true&include_all_commits=true" />
+    <img  alt="Bruno Brito's GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohbrito&theme=buefy&count_private=true&include_all_commits=true" />
   </a>
 </p>
 
