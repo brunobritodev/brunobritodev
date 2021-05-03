@@ -41,7 +41,6 @@ I'm a software developer passionate for <b>#opensource</b>, <b>#code</b> & <b>#s
   <a href="#">
     <img  alt="Bruno Brito's GitHub Language by File Size"  src="https://github.com/brunohbrito/github-stats/blob/master/generated/languages.svg" />
   </a>
-  <br>
   <a href="https://github-readme-stats-silk-xi.vercel.app/api/top-langs/?username=brunohbrito&theme=buefy&count_private=true">
     <img  alt="Bruno Brito's GitHub Language Stats" src="https://github-readme-stats-silk-xi.vercel.app/api/top-langs/?username=brunohbrito&theme=buefy&count_private=true" />
   </a>
