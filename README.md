@@ -34,16 +34,7 @@ I'm a software developer passionate for <b>#opensource</b>, <b>#code</b> & <b>#s
   <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=brunohbrito&theme=bear&showIcons=true">
     <img  alt="Bruno Brito's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/brunohbrito?theme=bear" />
   </a>
-  <a href="#">
-    <img  alt="Bruno Brito's GitHub Contributions Stats" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=brunohbrito&theme=tokyonight&background=FFFFFF" />
-  </a>
   
-  <a href="https://github-readme-stats-silk-xi.vercel.app/api/top-langs/?username=brunohbrito&theme=buefy&count_private=true">
-    <img  alt="Bruno Brito's GitHub Language Stats" src="https://github-readme-stats-silk-xi.vercel.app/api/top-langs/?username=brunohbrito&theme=buefy&count_private=true" />
-  </a>
-  <a href="#">
-    <img  alt="Bruno Brito's GitHub Language by File Size"  src="https://github.com/brunohbrito/github-stats/blob/master/generated/languages.svg" />
-  </a>
 </p>
 
 
