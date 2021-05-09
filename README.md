@@ -31,8 +31,8 @@ I'm a software developer passionate for <b>#opensource</b>, <b>#code</b> & <b>#s
 # Analytics ⚙️
 
 <p align="center">
-  <a href="https://github-readme-stats-silk-xi.vercel.app//api/?username=brunohbrito&show_icons=true&theme=buefy&count_private=true&include_all_commits=true">
-    <img  alt="Bruno Brito's GitHub Stats" width="400px" src="https://github-readme-stats-silk-xi.vercel.app/api/?username=brunohbrito&show_icons=true&theme=buefy&count_private=true" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=brunohbrito&theme=bear&showIcons=true">
+    <img  alt="Bruno Brito's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/brunohbrito?theme=bear" />
   </a>
   <a href="#">
     <img  alt="Bruno Brito's GitHub Contributions Stats" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=brunohbrito&theme=tokyonight&background=FFFFFF" />
