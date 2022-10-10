@@ -25,10 +25,10 @@ I'm a software developer passionate for <b>#opensource</b>, <b>#code</b> & <b>#s
     <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/brunobritodev" alt="GitHub badge" />
   </a>
   <a href="https://www.linkedin.com/in/bhdebrito">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhdebrito/" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunobritodev/" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/bruno_hbrito">
-    <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/bruno_hbrito/" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/brunobritodev/" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/brunobritodev">
     <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/brunobritodev/" alt="Facebook" />
