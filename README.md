@@ -1,6 +1,6 @@
 <p align="center">
  <a href="https://www.brunobrito.net.br">
-    <img src="https://github.com/brunohbrito/brunohbrito/blob/master/foote.png?raw=true" alt="Blog" />
+    <img src="https://github.com/brunobritodev/brunobritodev/blob/master/foote.png?raw=true" alt="Blog" />
   </a>
 </p>
 
@@ -21,8 +21,8 @@ I'm a software developer passionate for <b>#opensource</b>, <b>#code</b> & <b>#s
   <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003728">
     <img src="https://img.shields.io/badge/-MVP%20Profile-blue?style=for-the-badge&logo=Microsoft&logoColor=white&link=https://mvp.microsoft.com/en-us/PublicProfile/5003728" alt="MVP Profile" />
   </a>
-  <a href="https://github.com/brunohbrito">
-    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/brunohbrito" alt="GitHub badge" />
+  <a href="https://github.com/brunobritodev">
+    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/brunobritodev" alt="GitHub badge" />
   </a>
   <a href="https://www.linkedin.com/in/bhdebrito">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhdebrito/" alt="LinkedIn" />
@@ -30,16 +30,16 @@ I'm a software developer passionate for <b>#opensource</b>, <b>#code</b> & <b>#s
   <a href="https://www.instagram.com/bruno_hbrito">
     <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/bruno_hbrito/" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/brunohbrito">
-    <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/brunohbrito/" alt="Facebook" />
+  <a href="https://www.facebook.com/brunobritodev">
+    <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/brunobritodev/" alt="Facebook" />
   </a>
 </p>
 
 # Analytics ⚙️
 
 <p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=brunohbrito&theme=bear&showIcons=true">
-    <img  alt="Bruno Brito's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/brunohbrito?theme=bear" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=brunobritodev&theme=bear&showIcons=true">
+    <img  alt="Bruno Brito's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev?theme=bear" />
   </a>
   
 </p>
