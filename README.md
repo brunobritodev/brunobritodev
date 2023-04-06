@@ -8,12 +8,10 @@
      <img src="https://readme-typing-svg.herokuapp.com?font=&center=true&width=380&height=45&lines=Bruno+Brito;Father+%F0%9F%91%A8%E2%80%8D%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7%E2%80%8D%F0%9F%91%A6;Microsoft+MVP;Software+craftsmanship+%F0%9F%92%8E;Nice+to+meet+you+%F0%9F%98%84" />
  
 </p>
-
-
-
 Nice to meet you, my name is Bruno Brito and I believe in well done crafted software.
 
-I'm a software developer passionate for <b>#opensource</b>, <b>#code</b> & <b>#secure-coding</b>. In recent years I have been writing, speaking and working in some open source projects. As a senior software engineer, the more I learn, the more I realise how much I still need to learn.</p>
+I am a software developer with a passion for <b>#opensource</b>, <b>#code</b>, and <b>#secure-coding</b>. In recent years, I have been writing, speaking, and contributing to various open source projects. As a senior software engineer, the more I gain knowledge, the more I understand there is so much more to learn.
+</p>
 
 # Let's connect? 🤝
 
