@@ -9,7 +9,7 @@
  
 </p>
 Nice to meet you, my name is Bruno Brito and I believe in well done crafted software.
-
+<br><br>
 I am a software developer with a passion for <b>#opensource</b>, <b>#code</b>, and <b>#secure-coding</b>. In recent years, I have been writing, speaking, and contributing to various open source projects. As a senior software engineer, the more I gain knowledge, the more I understand there is so much more to learn.
 </p>
 
