@@ -19,6 +19,9 @@ I am a software developer with a passion for <b>#opensource</b>, <b>#code</b>, a
   <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003728">
     <img src="https://img.shields.io/badge/-MVP%20Profile-blue?style=for-the-badge&logo=Microsoft&logoColor=white&link=https://mvp.microsoft.com/en-us/PublicProfile/5003728" alt="MVP Profile" />
   </a>
+  <a href="https://www.docker.com/captains/bruno-henrique-de-brito">
+    <img src="https://img.shields.io/badge/-Docker%20Captain-blue?style=for-the-badge&labelColor=blue&logo=Docker Captain&logoColor=white&link=https://www.docker.com/captains/bruno-henrique-de-brito/" alt="Docker Captain" />
+  </a>
   <a href="https://github.com/brunobritodev">
     <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/brunobritodev" alt="GitHub badge" />
   </a>
